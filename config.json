@@ -1,8 +1,8 @@
 {
-  "api_key": "uuuijklko",
-  "broadcast_message": "سلام",
+  "api_key": "",
+  "broadcast_message": "",
+  "broadcast_id": 0,
   "force_block": false,
   "block_message": "",
-  "download_url": "",
-  "broadcast_id": 1766418615
+  "download_url": ""
 }
