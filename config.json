@@ -1,8 +1,8 @@
 {
-  "api_key": "test",
-  "broadcast_message": "test",
-  "force_block": true,
-  "block_message": "test",
-  "download_url": "test",
-  "broadcast_id": 1766475026
+  "api_key": "",
+  "broadcast_message": "سلام",
+  "force_block": false,
+  "block_message": "",
+  "download_url": "",
+  "broadcast_id": 1766475685
 }
