@@ -1,8 +1,8 @@
 {
   "api_key": "",
   "broadcast_message": "سلام",
-  "force_block": false,
+  "force_block": true,
   "block_message": "",
   "download_url": "",
-  "updated": 1766766546
+  "updated": 1766766583
 }
