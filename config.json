@@ -1,8 +1,8 @@
 {
   "api_key": "",
   "broadcast_message": "",
-  "force_block": true,
-  "block_message": "nkkkk",
-  "download_url": "https://www.aparat.com/YouTube_farsi_mi",
-  "updated_at": 1766835180
+  "force_block": false,
+  "block_message": "",
+  "download_url": "",
+  "updated_at": 1766843572
 }
