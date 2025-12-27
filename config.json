@@ -1,8 +1,8 @@
 {
-  "api_key": "",
-  "broadcast_message": "",
+  "api_key": "base64:c2stcHJvai1QZVctU2JSRnBrN0stbC1xdE1ZbWRXZXQ0V2ZPYmFxaVRXR3BsakJhdFhJbWFMYjNqeXZFb05HdWNLNFZ4RVp0eklTQy1RNFhtMlQzQmxia0ZKQWRyeWY3WnFtSzdod28tQUpZZTRJNGw0XzdLMXZUOVVEemFsNGhYMTlNQWxpV0ctUURMRzJUR203dDFXRkNPZ3l2S0plV21xa0E=",
+  "broadcast_message": "تست",
   "force_block": false,
   "block_message": "",
   "download_url": "",
-  "updated_at": 1766844233
+  "updated_at": 1766844373
 }
